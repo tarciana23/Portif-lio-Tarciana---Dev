@@ -1,4 +1,4 @@
-import Avatar from '../img/tarciana.jpeg'
+import Avatar from '../img/tarciana.png'
 import CurriculoPDF from '../img/Tarciana Souza Oliveira.pdf'
 
 import "../styles/components/sidebar.sass"
